@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AB Labs
+# 🚀 Ab Labs
 
 ### Modern Websites • Business Automation • SaaS Tools • Clinic Software
 
@@ -143,15 +143,6 @@ We also work on SaaS-style tools like:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![AB Labs GitHub Stats](https://github-readme-stats.vercel.app/api?username=ablabsbusiness-create&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ablabsbusiness-create&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -172,7 +163,6 @@ We focus on:
 ## 🔗 Links
 
 - Website: [aadityabhatnagar.online](https://aadityabhatnagar.online/)
-- Founder: [Aaditya Bhatnagar](https://github.com/Aaditya99999)
 - Personal GitHub: [Aaditya99999](https://github.com/Aaditya99999)
 - Business GitHub: [AB Labs](https://github.com/ablabsbusiness-create)
 
@@ -182,7 +172,6 @@ We focus on:
 
 ### AB Labs — Websites and automation systems for smarter businesses.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ablabsbusiness-create&style=for-the-badge)
 
-</div>"# ablabsbusiness-create" 
-"# ablabsbusiness-create" 
+
+</div>
